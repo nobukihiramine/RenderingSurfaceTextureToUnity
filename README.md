@@ -1,4 +1,4 @@
-# RenderingSurfaceTextureToUnity
+# Rendering SurfaceTexture To Unity
 
 Android(Java)のSurfaceTextureのテクスチャをUnityで描画する方法  
 https://www.hiramine.com/programming/rendering_surfacetexture_to_unity/index.html
