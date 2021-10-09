@@ -4,7 +4,7 @@ Android(Java)のSurfaceTextureのテクスチャをUnityで描画する方法
 https://www.hiramine.com/programming/rendering_surfacetexture_to_unity/index.html
 
 ## Screenshots : スクリーンショット
-<img src="screenshots/screenshot_01.png" width="240" alt="Screenshot"/>
+<img src="images/screenshot_anim01.gif" width="240" alt="Screenshot"/>
 
 ## Requirements : 必要条件、依存関係
 - Android Studio 4.2.2
