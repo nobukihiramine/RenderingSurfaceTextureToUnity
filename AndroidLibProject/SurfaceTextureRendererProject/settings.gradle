@@ -1,0 +1,3 @@
+rootProject.name = "SurfaceTextureRendererProject"
+include ':app'
+include ':surfacetexturerenderer'
